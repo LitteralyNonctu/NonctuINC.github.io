@@ -1,0 +1,32 @@
+BG - #355e3b (Hunter Green)
+
+Font Color - White
+
+Font Family - Oswald
+
+Top n bottom - #ff7518
+
+First four
+
+		1.Welcome to HHS
+
+			2.Successes so far
+
+				3.Stallions
+
+					4.Sponsors
+		
+All one page
+
+Sponsors
+Red mills horse
+DYON Belgium
+Choiceequestrian
+EQUIBest Riding Boots
+Struck Official
+BUTETSELLIER
+CAVALOR
+HHS LOGO (for completed grid)
+
+Load into website
+logo pop up -10px (y)
