@@ -364,14 +364,20 @@ section{
         box-shadow: 0px 2px 18px 0 rgb(129 162 182 / 20%);
         transform: all .40s ease;
     }
-    .navbar a{
-        display: block;
-        padding: 1rem;
-        margin: 0.5rem;
-
-    }
-    .navbar.active{
-        top: 100%;
-      
-    }
+   .container{
+    width: 50%;
+   }
+   .wrapper{
+    scale: 0.5;
+   }
+   #contat{
+    width: 100%;
+    scale: 1.1;
+}
+#reviews{
+    width: 100%;
+}
+#about{
+    width: 100%;
+}
 }
